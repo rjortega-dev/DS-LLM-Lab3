@@ -1,0 +1,4 @@
+results/
+fine_tuned_model/
+logs/
+.ipynb_checkpoints/
